@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Deepakvikrant
-- 👀 I’m interested in Django
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me ...Deepakvikrant333@gmail.com
+- 👀 I’m interested in JavaScript and Python
+- 🌱 I’m currently learning MERN full stack development
+- 💞️ I’m looking to collaborate on
+- 📫 reach me Deepakvikrant333@gmail.com
 
 <!---
 Deepakvikrant/Deepakvikrant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
